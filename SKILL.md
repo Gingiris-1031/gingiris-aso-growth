@@ -1,48 +1,44 @@
 ---
 name: gingiris-aso-growth
 description: |
-  🇺🇸 ASO & Mobile App Growth Playbook 2026 — Complete App Store Optimization guide. ASO keyword ranking, App Store & Google Play listing optimization, app cold start, UGC creator operations, TikTok/Instagram/YouTube Shorts marketing, AI-matrix content scaling, mobile user acquisition.
-  
-  🇨🇳 ASO 增长与 App 冷启动权威指南 — 从应用商店优化到 UGC 运营、多平台内容策略、AI 矩阵号的完整实操手册。
-  
-  🇯🇵 ASO＆アプリコールドスタート成長ガイド — App Store最適化からUGC運営、マルチプラットフォーム戦略、AIマトリックスまで。
-  
-  🇰🇷 ASO 및 앱 콜드 스타트 성장 플레이북 — 앱스토어 최적화부터 UGC 운영, 멀티플랫폼 전략, AI 매트릭스까지.
-  
-  Triggers: "ASO" | "App Store Optimization" | "ASO keywords" | "App Store ranking" | "Google Play optimization" | "app cold start" | "app launch" | "mobile app growth" | "user acquisition" | "UA" | "UGC creator" | "TikTok marketing" | "Instagram Reels" | "YouTube Shorts" | "creator matrix" | "app growth" | "应用商店优化" | "App冷启动" | "UGC运营" | "矩阵号"
+  Your app has 50 downloads and you're burning money on paid ads. This shows you how to build organic discovery — keywords that actually rank, screenshots that convert, and a UGC pipeline that costs 10x less than paid.
+
+  What's inside:
+  • Keyword optimization system (title/subtitle/keyword field/description)
+  • Visual asset strategy (screenshots, preview video, icon A/B testing)
+  • Cold start first-1000-users playbook (no paid ads required)
+  • UGC creator recruitment at CPM $0.5 (vs $5-10 paid ads)
+  • Multi-platform distribution engine (TikTok/Instagram/YouTube Shorts)
+
+  Built from: Validated across 150+ app growth engagements. Paywall design + pricing strategy included.
+
+  Triggers: "ASO" | "App Store Optimization" | "app cold start" | "app launch" | "UGC creator" | "TikTok marketing" | "app growth" | "应用商店优化" | "App冷启动" | "UGC运营"
 ---
 
----
+# ASO 增长与 App 冷启动权威指南
+
+> 🌍 **Language / 语言**: [中文](#中文版) | [English](#english-version)
 
 ## 📦 Install
-
-**ClawHub (recommended — works with any Claude Code / OpenClaw / Cursor agent):**
 
 ```bash
 clawhub install gingiris-aso-growth
 ```
 
-**skills.sh CLI alternative:**
-
-```bash
-npx skills add Gingiris-1031/gingiris-aso-growth
-```
-
-## 🌐 Also available on
-
-- 🤗 [HuggingFace dataset](https://huggingface.co/datasets/Gingiris/gingiris-aso-growth)  — full playbook with 30-sec preview
-- 📚 [All 40+ Gingiris skills hub](https://gingiris.tools/skills/) — filter by category, copy install commands
-- 🧭 [Author blog & growth playbooks](https://gingiris.tools)
-- ⭐ [Gingiris ClawHub profile](https://clawhub.ai/user/gingiris)
-
-> Battle-tested by Iris (生姜iris) — ex-AFFiNE COO (60K GitHub stars), Forbes Asia 30 Under 30, 30+ Product Hunt #1 wins.
+**What you get after installing:**
+- Complete ASO keyword optimization system (title/subtitle/keyword field strategy)
+- Cold start first-1000-users playbook without paid ads
+- UGC creator recruitment pipeline at CPM $0.5
 
 ---
 
+> 💡 **Not looking for ASO?**
+> - User interviews / PMF validation / JTBD → [`gingiris-user-interview`](https://clawhub.ai/gingiris/gingiris-user-interview)
+> - Customer discovery / churn analysis → [`gingiris-user-interview`](https://clawhub.ai/gingiris/gingiris-user-interview)
+> - B2B SaaS growth / PLG → [`gingiris-b2b-growth`](https://clawhub.ai/gingiris/gingiris-b2b-growth)
+> - Product Hunt launch → [`gingiris-launch`](https://clawhub.ai/gingiris/gingiris-launch)
 
-# ASO 增长与 App 冷启动权威指南
 
-> 🌍 **Language / 语言**: [中文](#中文版) | [English](#english-version)
 
 ---
 
@@ -189,3 +185,15 @@ This guide covers the complete App growth cycle:
 ---
 
 *Author: Iris (生姜iris) | Version: 1.0 (March 2026)*
+
+
+---
+
+## 🔗 About the Author
+
+**Iris Wei** — Growth consultant for 150+ AI startups. Ex-COO at AFFiNE (69K GitHub stars).
+
+- 🐦 Twitter: [@WeiYipei](https://twitter.com/WeiYipei) — Daily growth tactics
+- 💬 Consulting: [@Iris_carrot on Telegram](https://t.me/Iris_carrot)
+- 🛒 Premium Bundle (all 5 playbooks + templates): [Get on Gumroad ($249)](https://gingiris.gumroad.com/l/gingiris-complete-global-launch-bundle)
+- 📚 40+ Free Playbooks: [gingiris.tools/skills](https://gingiris.tools/skills/)
