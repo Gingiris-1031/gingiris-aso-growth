@@ -12,6 +12,34 @@ description: |
   Triggers: "ASO" | "App Store Optimization" | "ASO keywords" | "App Store ranking" | "Google Play optimization" | "app cold start" | "app launch" | "mobile app growth" | "user acquisition" | "UA" | "UGC creator" | "TikTok marketing" | "Instagram Reels" | "YouTube Shorts" | "creator matrix" | "app growth" | "应用商店优化" | "App冷启动" | "UGC运营" | "矩阵号"
 ---
 
+---
+
+## 📦 Install
+
+**ClawHub (recommended — works with any Claude Code / OpenClaw / Cursor agent):**
+
+```bash
+clawhub install gingiris-aso-growth
+```
+
+**skills.sh CLI alternative:**
+
+```bash
+npx skills add Gingiris-1031/gingiris-aso-growth
+```
+
+## 🌐 Also available on
+
+- 🤗 [HuggingFace dataset](https://huggingface.co/datasets/Gingiris/gingiris-aso-growth)  — full playbook with 30-sec preview
+- 📚 [All 40+ Gingiris skills hub](https://gingiris.tools/skills/) — filter by category, copy install commands
+- 🧭 [Author blog & growth playbooks](https://gingiris.tools)
+- ⭐ [Gingiris ClawHub profile](https://clawhub.ai/user/gingiris)
+
+> Battle-tested by Iris (生姜iris) — ex-AFFiNE COO (60K GitHub stars), Forbes Asia 30 Under 30, 30+ Product Hunt #1 wins.
+
+---
+
+
 # ASO 增长与 App 冷启动权威指南
 
 > 🌍 **Language / 语言**: [中文](#中文版) | [English](#english-version)
